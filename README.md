@@ -18,6 +18,10 @@ This music pack is not just a collection of tracks, but a comprehensive, ready-t
 ## Why This Pack?
 This pack is designed to save you time by providing ready-to-use music that fits seamlessly into your game. It’s perfect for games that are close to release and need comprehensive, cohesive music that works across all major in-game moments.
 
+## See It in Action
+
+[![Video Preview](https://img.youtube.com/vi/iaIamwFF7v0/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
 ## How to Use
 1. Purchase and download the full pack.
 2. Integrate the tracks into your game
