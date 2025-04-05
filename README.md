@@ -20,7 +20,7 @@ This pack is designed to save you time by providing ready-to-use music that fits
 
 ## See It in Action
 
-[![Video Preview](https://img.youtube.com/vi/iaIamwFF7v0)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Video Preview](https://img.youtube.com/vi/iaIamwFF7v0/0.jpg)](https://www.youtube.com/watch?v=iaIamwFF7v0)
 
 ## How to Use
 1. Purchase and download the full pack.
